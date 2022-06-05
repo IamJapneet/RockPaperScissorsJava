@@ -1,3 +1,4 @@
+//This code was written on 5th June 2022 by Japneet
 import java.util.Scanner;
 import java.util.Random;
 public class Firstjava {
